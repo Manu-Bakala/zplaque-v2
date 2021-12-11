@@ -63,17 +63,17 @@
                             <div class="col-sm-12 col-md-4 px-5 modal-body-content">
                                 <img src="./img/illustration/illustration-01.svg" alt="" class="img-fluid">
                                 <div class="modal-description text-center mt-3">Contrôle technique</div>
-                                <a href="./car-inspection" class="btn btn-green mt-3">Reserver</a>
+                                <a href="./car-inspection.php" class="btn btn-green mt-3">Reserver</a>
                             </div>
                             <div class="col-sm-12 col-md-4 px-5 modal-body-content">
                                 <img src="./img/illustration/illustration-03.svg" alt="" class="img-fluid">
                                 <div class="modal-description text-center mt-3">Deplacement de véhicule</div>
-                                <a href="./car-travel" class="btn btn-green mt-3">Reserver</a>
+                                <a href="./car-travel.php" class="btn btn-green mt-3">Reserver</a>
                             </div>
                             <div class="col-sm-12 col-md-4 px-5 modal-body-content">
                                 <img src="./img/illustration/illustration-05.svg" alt="" class="img-fluid">
                                 <div class="modal-description text-center mt-3">Sortie de fourrière</div>
-                                <a href="./tow-truck" class="btn btn-green mt-3">Reserver</a>
+                                <a href="./tow-truck.php" class="btn btn-green mt-3">Reserver</a>
                             </div>
                         </div>
                     </div>

@@ -36,9 +36,9 @@
                                 Particuliers
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="./car-inspection">Contrôle technique</a></li>
-                                <li><a class="dropdown-item" href="./car-travel">Déplacement de véhicule</a></li>
-                                <li><a class="dropdown-item" href="./tow-trucks">Sortie de fourrière</a></li>
+                                <li><a class="dropdown-item" href="./car-inspection.php">Contrôle technique</a></li>
+                                <li><a class="dropdown-item" href="./car-travel.php">Déplacement de véhicule</a></li>
+                                <li><a class="dropdown-item" href="./tow-trucks.php">Sortie de fourrière</a></li>
                             </ul>
                         </li>
                         <li class="nav-item mx-4">
